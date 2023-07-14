@@ -1,4 +1,5 @@
 ## ArtiVision - Text-to-Image Generation with Generative AI
+ArtiVision is a web-based application that leverages the power of Generative AI to generate images from textual prompts. By providing a description or a prompt, users can generate unique and visually appealing images, creating a seamless bridge between language and visual art.
 
 ## Features:
 1) Generate the image from the prompt with various parameters.
