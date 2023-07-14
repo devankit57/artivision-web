@@ -1,4 +1,4 @@
-## Simple React App to demonstrate GenAI Text2Image APIs powered by SegMind
+ArtiVision - Text-to-Image Generation with Generative AI
 
 ## Features:
 1) Generate the image from the prompt with various parameters.
@@ -25,7 +25,7 @@
 5) Write Unit Test cases using @testing-library/react.
 
 ## App Snapshot:
-![App Snapshot](GenAI-Image-Generator.png)
+![App Snapshot](artivision_image.png)
 
 ## Available Scripts
 
