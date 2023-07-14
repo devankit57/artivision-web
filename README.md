@@ -1,4 +1,4 @@
-##ArtiVision - Text-to-Image Generation with Generative AI
+## ArtiVision - Text-to-Image Generation with Generative AI
 
 ## Features:
 1) Generate the image from the prompt with various parameters.
